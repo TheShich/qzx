@@ -1,7 +1,10 @@
 # QZX - Quantum Simulator for the ZX Spectrum
 
 QZX is an experimental quantum computing simulator for the ZX Spectrum, written in pure BASIC.
+You need ANY ZX Spectrum computer to run this simulator (16K is enough!)
 This is a port of qc64 project by Davide Gessa (dakk) https://github.com/dakk/qc64
+
+![Creating a Bell State on ZX Spectrum](images/h0cx.gif)
 
 
 ## Features
